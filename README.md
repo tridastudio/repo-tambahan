@@ -3,5 +3,10 @@
 ini adalah tambhaan lagi
 
 -ini adalah tambahan lgi
-- ini dua kali tambhaan lagi
-- jika tambaha lagi
+
+
+hapus 2 tambah 3
+
+- tambha
+- - tambha
+- -tambah
